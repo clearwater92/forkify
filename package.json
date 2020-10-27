@@ -1,0 +1,25 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "forkify project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clearwater92/forkify.git"
+  },
+  "author": "clearwater",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clearwater92/forkify/issues"
+  },
+  "homepage": "https://github.com/clearwater92/forkify#readme",
+  "devDependencies": {
+    "webpack": "^5.2.0"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
